@@ -1,3 +1,18 @@
-- Test files issue
-- Datalad (?)
-- Finish setup
+- Test files issue: absolute / relative path? 
+- Finish setup (Nipype tuto)
+- Create bash code from template with new opensource data
+- Test bash code in Jupyter:
+    - Preprocessing
+    - Stats analysis
+- Translate bash preprocessing to Nipype
+- Try stats analysis with Nistats -> compare results
+
+From 27/03:
+
+- Modify scripts to apply to actual assignment data
+- Make sure everything follow BIDS rules
+- Run analysis 
+- Report analysis (automated report -> check pybids)
+- Interpret results
+
+DONE.
