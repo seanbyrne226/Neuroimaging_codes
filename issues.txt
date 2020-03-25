@@ -1,2 +1,0 @@
-Can you get the tcsh preprossing to run smoothly in JN? mine crashes when I start changing directories ? 
-TBH my computer has hada hard dy and there is a load open so maybe this is why? -Sean
