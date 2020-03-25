@@ -10,9 +10,15 @@
 From 27/03:
 
 - Modify scripts to apply to actual assignment data
-- Make sure everything follow BIDS rules
+- Make sure everything follow BIDS rules (https://bids-standard.github.io/bids-validator/)
 - Run analysis 
 - Report analysis (automated report -> check pybids)
 - Interpret results
 
 DONE.
+
+If extra time...
+
+- fMRIPrep test & compare
+- SPM?
+- MVPA?
